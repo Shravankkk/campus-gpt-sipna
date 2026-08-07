@@ -1,0 +1,13 @@
+College Name: Sipna College of Engineering and Technology is located in Amravati, Maharashtra.
+Short Name: Students commonly refer to the college as Sipna or SCET.
+Engineering Education: Sipna offers engineering education with classroom learning, laboratory work, projects, seminars, and industry interaction.
+Computer Science: The Computer Science and Engineering department focuses on programming, data structures, databases, computer networks, software engineering, and modern computing.
+Information Technology: The Information Technology department focuses on software development, web technologies, databases, networking, cloud topics, and industry-oriented skills.
+Electronics and Telecommunication: The Electronics and Telecommunication department focuses on circuits, communication systems, embedded systems, signal processing, and electronics labs.
+Civil Engineering: The Civil Engineering department focuses on construction, surveying, structures, transportation, water resources, and environmental engineering.
+Mechanical Engineering: The Mechanical Engineering department focuses on design, manufacturing, thermal engineering, machines, workshops, and industry applications.
+MBA: The management department supports business education, communication, management skills, finance, marketing, human resources, and entrepreneurship.
+Laboratories: Departments have laboratories where students perform practical experiments and project work.
+Projects: Students work on mini projects and final year projects to apply classroom concepts.
+Faculty Support: Faculty members guide students in academics, practical work, projects, internships, and career preparation.
+Department Notices: Students should regularly check department notices for timetable, exams, submissions, events, and placement updates.
