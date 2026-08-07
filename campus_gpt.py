@@ -32,10 +32,7 @@ def load_documents(folder_path):
     """
     documents = []
 
-    for file_name in sorted(os.listdir(folder_path)):
-        if not file_name.endswith(".txt"):
-            continue
-
+    for file_name in os.listdir(folder_path):
         file_path = os.path.join(folder_path, file_name)
 
         with open(file_path, "r", encoding="utf-8") as file:
@@ -82,9 +79,9 @@ def clean_text(text):
     return text
 
 
-def get_keywords(question):
+def search_documents(question, chunks, limit=3):
     """
-    Keep only useful words from the question.
+    Find the best matching document lines for a question.
     """
     cleaned_question = clean_text(question)
     words = cleaned_question.split()
@@ -95,36 +92,15 @@ def get_keywords(question):
         if word not in COMMON_WORDS:
             keywords.append(word)
 
-    return keywords
-
-
-def score_chunk(question_keywords, chunk_text):
-    """
-    Give points when question keywords appear in a document line.
-    """
-    cleaned_chunk = clean_text(chunk_text)
-    chunk_words = cleaned_chunk.split()
-
-    score = 0
-
-    for keyword in question_keywords:
-        if keyword in chunk_words:
-            score = score + 2
-        elif keyword in cleaned_chunk:
-            score = score + 1
-
-    return score
-
-
-def search_documents(question, chunks, limit=3):
-    """
-    Find the best matching document lines for a question.
-    """
-    keywords = get_keywords(question)
     results = []
 
     for chunk in chunks:
-        score = score_chunk(keywords, chunk["text"])
+        cleaned_chunk = clean_text(chunk["text"])
+        score = 0
+
+        for keyword in keywords:
+            if keyword in cleaned_chunk:
+                score = score + 1
 
         if score > 0:
             results.append({
@@ -163,19 +139,12 @@ def ask_gemini(question, results):
     """
     api_key = os.getenv("GEMINI_API_KEY")
 
-    if not api_key:
-        return "Gemini API key is missing. Add it in the sidebar or in a .env file."
-
     context = ""
 
     for result in results:
         context = context + result["source"] + ": " + result["text"] + "\n"
 
-    prompt = f"""
-You are CampusGPT, a helpful assistant for college students.
-
-Answer the question using only the context below.
-
+    prompt = f"""You are CampusGPT, a helpful assistant for college students. Answer the question using only the context below.
 Context:
 {context}
 
