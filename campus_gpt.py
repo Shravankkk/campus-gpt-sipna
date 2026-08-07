@@ -16,7 +16,7 @@ from google import genai
 
 load_dotenv()
 
-GEMINI_MODEL = "gemini-2.5-flash-lite"
+GEMINI_MODEL = "gemini-3.5-flash-lite"
 
 
 COMMON_WORDS = {
@@ -175,8 +175,6 @@ def ask_gemini(question, results):
 You are CampusGPT, a helpful assistant for college students.
 
 Answer the question using only the context below.
-If the answer is not in the context, say:
-I could not find this information in the documents.
 
 Context:
 {context}
