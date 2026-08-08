@@ -1,0 +1,42 @@
+SIPNA Central Library occupies two floors.
+The Central Library carpet area is reported as 1,244.53 square metres.
+The Central Library uses Dewey Decimal Classification 22nd edition.
+The Central Library uses SOUL Network Version software and barcoding.
+Library services include lending, book bank, reference, digital access, internet access, audio-visual support and reprography.
+The Central Library has 54,469 technical book volumes.
+The Central Library has 7,288 technical titles.
+The Central Library has 2,281 extra-curricular books in Swami Vivekanand Dalan.
+The Central Library has 73 national journals or periodicals in hard copy.
+The Central Library has 17 international journals in hard copy.
+The Central Library has 2,032 back-volume sets.
+The Central Library has 1,839 UG and PG project reports.
+The Central Library has 32 PhD theses.
+The Central Library has access to 215 IEEE e-journals.
+The Central Library has access to 1,151 DELNET e-journals.
+Library reading hall timing is 8:00 AM to 5:30 PM from Monday to Friday.
+Library circulation timing is 10:00 AM to 5:30 PM from Monday to Friday.
+Saturday library reading hall timing is 8:00 AM to 4:00 PM.
+Saturday library circulation timing is 8:00 AM to 1:00 PM.
+During exam periods, Monday to Friday reading hall timing is 8:00 AM to 8:00 PM.
+Sunday and holiday reading hall timing is shown as 10:30 AM to 5:30 PM with limited or applicable circulation.
+SIPNA has a central Computer Center with 100 seats.
+The central Computer Center has all-in-one PCs and a dedicated server room.
+The Computer Center reports BSNL leased line bandwidth of 220 Mbps.
+The Computer Center reports Airtel backup link bandwidth of 300 Mbps.
+The Computer Center reports RailTel dedicated server bandwidth of 100 Mbps.
+The total listed institute-level internet bandwidth is 620 Mbps.
+The Computer Center reports a Cisco router, dedicated firewall and authenticated internet access.
+Hosted digital systems include ERP, LMS, RCMS, Feedback Management System, Self-Appraisal, OBE system, Examination Management System, SOUL and Virtual Programming Lab.
+SIPNA auditorium has seating capacity of 600.
+SIPNA auditorium area is reported as 1,350 square metres.
+SIPNA auditorium has 32-channel audio mixer, acoustic design, projector, stage lighting, 115-ton AC system and 160 KVA generator backup.
+SIPNA campus area is reported as 48,800 square metres.
+SIPNA reports a separate girls hostel facility with four hostels.
+The four girls hostels are Rani Laxmibai, Savitribai Fule, Ahilyabai Holkar and Jijamata.
+The combined girls hostel capacity is reported as 350.
+Girls hostel facilities include AC rooms, water purifier, water cooler, free Wi-Fi, geysers, mess, power backup, fire extinguishers, security and 24x7 residential superintendent support.
+SIPNA medical dispensary has panel doctors, 24-hour emergency support, ambulance availability, BP apparatus, weighing machine, oxygen cylinder and first-aid medicines.
+SIPNA lists sports infrastructure for cricket, football, kabaddi, volleyball, kho-kho, lagori, badminton, table tennis, carrom and chess.
+SIPNA lists an international-standard basketball court.
+SIPNA TEJOMAY solar rooftop system reports 220 kW installed capacity.
+The TEJOMAY solar system claims approximately 880 units daily generation.

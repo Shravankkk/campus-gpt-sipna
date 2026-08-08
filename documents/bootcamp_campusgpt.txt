@@ -1,0 +1,28 @@
+ExamEvoke is conducting a 3-Day AI and Robotics Bootcamp at SIPNA College of Engineering and Technology, Amravati.
+The ExamEvoke AI and Robotics Bootcamp dates are 6 August to 8 August 2026.
+The bootcamp focuses on practical understanding of Generative AI, Large Language Models, AI Assistants, Robotics and modern AI application development.
+The bootcamp helps students understand how AI systems work and how to build useful AI-powered solutions.
+Students learn the fundamentals of Large Language Models, also called LLMs.
+Students learn how LLMs understand and generate human-like responses.
+Students learn how to build a simple chatbot.
+Students learn the difference between a traditional chatbot and an AI Assistant.
+Students learn how AI assistants can interact with users, external knowledge sources and tools.
+Prompt Engineering is a major part of the bootcamp.
+Prompt Engineering sessions cover prompt structure, task definition, context setting, constraints, expected output formats, examples, role-based prompting and ways to improve LLM response accuracy.
+The bootcamp explains how to control an AI model so it answers using relevant and trusted information.
+Students are introduced to Retrieval-Augmented Generation, also called RAG.
+RAG helps an LLM retrieve information from an organisation's own documents or knowledge base before generating an answer.
+RAG helps build AI applications that answer using a specific set of documents instead of only the general knowledge of an LLM.
+The bootcamp explains the difference between Prompt Engineering, RAG and Fine-Tuning.
+Fine-Tuning means adapting an existing model for a particular task, behaviour or domain.
+The bootcamp covers Tools and AI Agents.
+Tools and AI Agents show how an LLM can connect with APIs, databases and other systems to perform actions.
+CampusGPT is one of the key practical use cases introduced in the bootcamp.
+CampusGPT uses RAG to answer questions from institutional information and campus documents.
+CampusGPT can use academic regulations, syllabus, department information, examination guidelines, placement information, notices, policies, FAQs and campus documents.
+CampusGPT creates a single AI-powered conversational interface for institutional knowledge.
+CampusGPT helps students avoid manually searching through multiple websites, PDFs, notices and department pages.
+Example CampusGPT questions include placement eligibility, semester syllabus, attendance requirement, visited companies, examination rules and internship information.
+CampusGPT shows how RAG can transform a general-purpose LLM into a domain-specific AI assistant without training a new model.
+The bootcamp learning journey is LLM to Prompt Engineering to Chatbot to AI Assistant to RAG to Fine-Tuning to Tools to CampusGPT.
+The bootcamp objective is to help students move from simply using AI tools to understanding, building and applying AI systems to solve real-world problems.
